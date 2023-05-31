@@ -4,7 +4,7 @@ If you are like me, you find it annoying to get past paywalls by searching direc
 
 For example, if I want to download a .pdf at the address https://ieeexplore.ieee.org/abstract/document/9992539 I can execute my Apple Script with my user-defined keyboard shortcut to change the address to https://ieeexplore-ieee-org.proxy.lib.duke.edu/abstract/document/9992539/ in order for me to get through the paywall.
 
-# Instructions
+## Instructions
 
 1. In the file ```replace_proxy.applescript```, Replace ```".proxy.lib.duke.edu/"``` (Line 22) with whatever proxy address your institution uses.
 2. In Automator, create a Quick Action that executes the Apple Script.
