@@ -1,4 +1,4 @@
-# Welcome
+# Paywalls Suck
 
 If you are like me, you find it annoying to get past paywalls by searching directly on your library's website. This Apple Script (Mac OS) does this automatically in Safari by simply changing the url. It will direct you to a login page for your institution, then direct you immediately back to the article. Now, you can download the .pdf withough scrolling thorugh the list of insitutions or opening a new tab and loggining into your library account manually.
 
