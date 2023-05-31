@@ -1,8 +1,8 @@
 # Welcome
 
-If you are like me, you find it annoying to get past payways by having to search through your institutional library. At least for me, you can change your url in order to automatically do so. This Apple Script (Mac OS) does this automatically in Safari. I programmed a keystroke to replace my url.
+If you are like me, you find it annoying to get past paywalls by searching directly on your library's website. This Apple Script (Mac OS) does this automatically in Safari by simply changing the url. It will direct you to a login page for your institution, then direct you immediately back to the article. Now, you can download the .pdf withough scrolling thorugh the list of insitutions or opening a new tab and loggining into your library account manually.
 
-For example, if I want to download a .pdf at the address https://ieeexplore.ieee.org/abstract/document/9992539 I can execute my Apple Script with my user-defined keystroke to change the address to https://ieeexplore-ieee-org.proxy.lib.duke.edu/abstract/document/9992539/ in order for me to get through the pay-wall.
+For example, if I want to download a .pdf at the address https://ieeexplore.ieee.org/abstract/document/9992539 I can execute my Apple Script with my user-defined keyboard shortcut to change the address to https://ieeexplore-ieee-org.proxy.lib.duke.edu/abstract/document/9992539/ in order for me to get through the paywall.
 
 # Instructions
 
