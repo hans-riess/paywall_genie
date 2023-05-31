@@ -8,4 +8,4 @@ For example, if I want to download a .pdf at the address https://ieeexplore.ieee
 
 1. In the file ```replace_proxy.applescript```, Replace ```".proxy.lib.duke.edu/"``` (Line 22) with whatever proxy address your institution uses.
 2. In Automator, create a Quick Action that executes the Apple Script.
-3. Create a keyboard shortcut for the workflow(https://support.apple.com/guide/mac-help/create-keyboard-shortcuts-for-apps-mchlp2271/mac)
+3. Create a keyboard shortcut for the workflow (https://support.apple.com/guide/mac-help/create-keyboard-shortcuts-for-apps-mchlp2271/mac).
